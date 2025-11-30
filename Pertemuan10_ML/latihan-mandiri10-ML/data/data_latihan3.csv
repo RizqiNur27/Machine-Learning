@@ -1,0 +1,11 @@
+Temperature,Humidinity,Wind Speed,Percipitation (%),Cloud Cover (%),Athmospheric pressure
+14.0,73,9.5,82.0,partly cloudy,1010.82
+39.0,96,8.5,71.0,partly cloudy,1011.43
+30.0,64,7.0,16.0,clear,1018.72
+38.0,83,1.5,82.0,clear,1026.25
+27.0,74,17.0,66.0,overcast,990.67
+32.0,55,3.5,26.0,overcast,1010.03
+-2.0,97,8.0,86.0,overcast,990.87
+3.0,85,6.0,96.0,partly cloudy,984.46
+3.0,83,6.0,66.0,overcast,999.44
+28.0,74,8.5,107.0,clear,1012.13
